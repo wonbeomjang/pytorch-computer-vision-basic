@@ -1,1 +1,1 @@
-# deep-learning-model
+# pytorch-computer-vision-tutorial
