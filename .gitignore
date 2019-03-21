@@ -125,4 +125,11 @@ dmypy.json
 
 # End of https://www.gitignore.io/api/python
 
+# Check point for load model
+checkpoint
+
+# Dataset path
+dataset
+
+# IDE information
 .idea
