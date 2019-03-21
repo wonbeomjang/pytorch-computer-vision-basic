@@ -1,5 +1,5 @@
 import os
-from dataloader.dataloader import get_loader
+from dataloader.classification_dataloader import get_loader
 from config.config import get_config
 from src.train import Trainer
 from src.test import Tester
